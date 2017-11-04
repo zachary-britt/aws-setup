@@ -1,0 +1,9 @@
+"again"	1
+"hello"	2
+"is"	2
+"line"	2
+"second"	1
+"the"	2
+"third"	1
+"this"	2
+"world"	1
